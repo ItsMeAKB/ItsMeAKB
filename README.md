@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Akshay 👋</h1>
 
-<!--
-**ItsMeAKB/ItsMeAKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Aspiring MERN Stack Developer</b> · Always learning, always building
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-k-babu-b40a842b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@TechGTbyAKB"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Currently learning **full stack web development with the MERN stack**
+- 🔨 Building projects to practice what I learn: UI clones, websites and full stack apps
+- 🌱 Next up: **REST APIs, authentication and deploying a complete MERN app**
+- 📺 I share my tech journey on YouTube: **TechGT by AKB**
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" />
+</p>
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Zomato Clone](https://github.com/ItsMeAKB/zomatoClone) | Responsive clone of the Zomato website | HTML, CSS |
+| [Starbucks Clone](https://github.com/ItsMeAKB/StarbucksClone) | Clone of the Starbucks landing page | HTML, CSS |
+| [Tor Project Clone](https://github.com/ItsMeAKB/torProjectClone) | Static clone of the Tor Project website | HTML, CSS |
+| [My Website](https://github.com/ItsMeAKB/My-website) | My personal website | HTML, CSS |
+| [Python Class](https://github.com/ItsMeAKB/Python-Class) | Python practice and class work | Python |
+
+> 💡 *More MERN stack projects coming soon!*
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsMeAKB&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeAKB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! Feel free to connect with me.</p>
+
