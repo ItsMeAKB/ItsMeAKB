@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshay&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+MERN+Stack+Developer;Learning+React+%26+Node.js;Building+projects+every+day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsMeAKB&color=blue&style=flat" />
+</p>
 <h1 align="center">Hi, I'm Akshay 👋</h1>
 
 <p align="center">
@@ -46,4 +55,5 @@
 ---
 
 <p align="center">⭐ Thanks for visiting my profile! Feel free to connect with me.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
