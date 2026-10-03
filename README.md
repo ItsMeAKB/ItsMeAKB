@@ -1,17 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshay&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I%27m%20Akshay&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+MERN+Stack+Developer;Learning+React+%26+Node.js;Building+projects+every+day" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsMeAKB&color=blue&style=flat" />
-</p>
-<h1 align="center">Hi, I'm Akshay 👋</h1>
 
-<p align="center">
-  <b>Aspiring MERN Stack Developer</b> · Always learning, always building
-</p>
+
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshay-k-babu-b40a842b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
