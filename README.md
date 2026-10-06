@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+MERN+Stack+Developer;Learning+React+%26+Node.js;Building+projects+every+day" />
 </p>
 
-
-
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/akshay-k-babu-b40a842b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@TechGTbyAKB"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -38,8 +33,11 @@
 | [Tor Project Clone](https://github.com/ItsMeAKB/torProjectClone) | Static clone of the Tor Project website | HTML, CSS |
 | [My Website](https://github.com/ItsMeAKB/My-website) | My personal website | HTML, CSS |
 | [Python Class](https://github.com/ItsMeAKB/Python-Class) | Python practice and class work | Python |
+| [Rock Paper Scissors](https://github.com/ItsMeAKB/rock-paper-scissors) | Playable browser game ([play it here](https://itsmeakb.github.io/rock-paper-scissors/)) | HTML, CSS, JS |
 
 > 💡 *More MERN stack projects coming soon!*
+
+
 
 ## 📊 GitHub Stats
 
@@ -52,4 +50,3 @@
 
 <p align="center">⭐ Thanks for visiting my profile! Feel free to connect with me.</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
